@@ -1,6 +1,16 @@
 # shop-vue-vuex-cloudfront
 
-See `develop` branch for development
+Cloudfront distribution
+
+https://d1dbtwhvosi3rc.cloudfront.net/
+
+
+S3 bucket
+
+http://node-react-shop-bucket.s3-website-eu-west-1.amazonaws.com/
+
+
+See `task-2` branch for development
 
 ## Project setup
 ```
